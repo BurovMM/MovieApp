@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="poster_of_movie">Плакат фильма</string>
+    <string name="top_rated">Самые рейтинговые</string>
+    <string name="most_popular">Самые популярные</string>
+    <string name="main">Главная</string>
+    <string name="favorite">Любимые</string>
+    <string name="play">Запустить</string>
+</resources>
